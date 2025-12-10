@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shortlink-service
-        image: khaledelnabawy1/shortlink-service:8
+        image: khaledelnabawy1/shortlink-service:9
         ports:
         - containerPort: 3000
 
